@@ -1,0 +1,5 @@
+- Rename to odataQ
+- Rename tests to odata_query or rename class to ODataQuery
+- Add cran-issues
+- Submit to cran
+
